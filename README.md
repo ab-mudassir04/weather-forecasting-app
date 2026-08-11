@@ -13,7 +13,7 @@
 ## 🌐 Live Demo
 
 🔗 **Live Website:**
-https://your-weather-app.netlify.app
+https://weathernow-ab.netlify.app
 
 🔗 **GitHub Repository:**
 https://github.com/ab-mudassir04/weather-forecasting-app
@@ -517,32 +517,6 @@ git push
 ```
 
 Netlify can automatically deploy the latest GitHub version.
-
----
-
-## 📸 Screenshots
-
-Add screenshots of your application here after completing the UI.
-
-### Home Page
-
-```text
-Add your screenshot here
-```
-
-### Weather Dashboard
-
-```text
-Add your screenshot here
-```
-
-### Mobile View
-
-```text
-Add your screenshot here
-```
-
----
 
 ## 🎓 Academic Project
 
