@@ -61,6 +61,7 @@ Mumbai
 Hyderabad
 431601
 400001
+500001
 ```
 
 ---
@@ -240,9 +241,6 @@ Chrome DevTools
 
 ```text
 weather-forecasting-app/
-│
-├── public/
-│   └── weather-logo.svg
 │
 ├── src/
 │   │
